@@ -4,7 +4,7 @@
 <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
 </div>
 
-# Hello Rails Back-end App
+# Hello-Rails-Back-end Test App
 
 > A Rails Back-end application that interacts with a React front-end API to display different greetings
 
