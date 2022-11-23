@@ -12,6 +12,10 @@
 - Postgresql
 - React
 
+## Visit the live output at: 
+
+http://localhost:3000/api/v1/greetings
+
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
 
