@@ -1,3 +1,5 @@
+<img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Hello Rails Back-end App
