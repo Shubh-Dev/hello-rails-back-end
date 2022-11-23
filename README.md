@@ -2,13 +2,16 @@
 
 <div align="center">
 <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-</div>
+
 
 # Hello-Rails-Back-end Test App
 
 > A Rails Back-end application that interacts with a React front-end API to display different greetings
 
 > You can find the React Front-end application at [This Repo](https://github.com/Shubh-Dev/hello-react-front-end.git)
+
+</div>
+<hr>
 
 ## 🛠 Built With
 
