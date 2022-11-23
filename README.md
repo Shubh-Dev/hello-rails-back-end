@@ -1,16 +1,37 @@
+<a name="readme-top"></a>
+
+<div align="center">
 <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+</div>
 
 # Hello Rails Back-end App
 
 > A Rails Back-end application that interacts with a React front-end API to display different greetings
 > You can find the React Front-end application at [This Repo](https://github.com/Shubh-Dev/hello-react-front-end.git)
 
-## Built With
+## 🛠 Built With
 
-- Ruby
-- Ruby on Rails
-- Postgresql
-- React
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href= "https://rubyonrails.org/">Ruby on Rails</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
+
 
 ## Visit the live output at: 
 
@@ -19,11 +40,14 @@ http://localhost:3000/api/v1/greetings
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Prerequisites
 
 - You need Ruby v3+, Rails v7+ and Postgresql installed on your machine.
 
 ## Setup and Usage
+
 **Start Back-end Rails server**
 - *Note -> You need to start the Rails server first at port 3000 then start the React server at a different port*
 - Clone the back-end rails API from `https://github.com/Shubh-Dev/hello-rails-back-end.git`
@@ -49,15 +73,22 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: [@Shubh-dev](https://github.com/Shubh-Dev)
 - LinkedIn: [Shubh Dev](https://www.linkedin.com/in/shubhscb/)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
 
 ## Acknowledgement
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
 
-## Show your support
+## 📝 License
 
-Give a ⭐️ if you like this project!
+This project is [MIT](./LICENSE.md) licensed.
+
